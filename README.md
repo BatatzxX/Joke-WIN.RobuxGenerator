@@ -6,7 +6,7 @@ Copy all the Generator.vbs
 
 Paste in notepad
 
-Save as "Generator**.vbs**"
+Save as "Generator.**vbs**"
 
 ## Made with
 VBS only
