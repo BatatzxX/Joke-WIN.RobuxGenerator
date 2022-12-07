@@ -8,6 +8,8 @@ Paste in notepad
 
 Save as "Generator.**vbs**"
 
+Run!
+
 ## Made with
 VBS only
 
